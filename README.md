@@ -1,9 +1,13 @@
-#Demo
+# Demo
 
 
 Welcome to Github!
 
 
-##SubHeader
+## SubHeader
 
  Updating terms.
+
+ ## Third Header
+
+ Thank You.
